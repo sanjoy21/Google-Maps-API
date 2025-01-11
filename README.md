@@ -17,7 +17,6 @@ A simple Google-Maps-API platform built with Laravel.
 - PHP >= 8.0
 - Composer
 - MySQL
-- Node.js & npm
 
 ---
 
